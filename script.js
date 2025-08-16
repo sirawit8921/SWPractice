@@ -1,0 +1,3 @@
+function punch() {
+  alert("attack");
+}
